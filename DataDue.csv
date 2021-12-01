@@ -1,0 +1,23 @@
+﻿nome_modulistica,score_preop,score_postop,condizioni_meteo,sesso,anni_ricovero,temperatura_media,umidita_media,HI > 27,natural_light;nome_modulistica,score_preop,score_postop,condizioni_meteo,sesso,anni_ricovero,temperatura_media,umidita_media,HI > 27,natural_light;nome_modulistica,score_preop,score_postop,condizioni_meteo,sesso,anni_ricovero,temperatura_media,umidita_media,HI > 27,natural_light;nome_modulistica,score_preop,score_postop,condizioni_meteo,sesso,anni_ricovero,temperatura_media,umidita_media,HI > 27,natural_light;nome_modulistica,score_preop,score_postop,condizioni_meteo,sesso,anni_ricovero,temperatura_media,umidita_media,HI > 27,natural_light;nome_modulistica,score_preop,score_postop,condizioni_meteo,sesso,anni_ricovero,temperatura_media,umidita_media,HI > 27,natural_light;nome_modulistica,score_preop,score_postop,condizioni_meteo,sesso,anni_ricovero,temperatura_media,umidita_media,HI > 27,natural_light
+SF12 PhysicalScore,27.6,37.4,poco nuvoloso,F,70,20.0,69.0,False,True;;;;;;
+SF12 MentalScore,54.36,58.46,poco nuvoloso,F,70,20.0,69.0,False,True;;;;;;
+SF12 PhysicalScore,28.15,38.25,poco nuvoloso,M,69,18.0,65.0,False,True;;;;;;
+SF12 MentalScore,57.02,64.62,poco nuvoloso,M,69,18.0,65.0,False,True;;;;;;
+SF12 PhysicalScore,31.57,55.67,poco nuvoloso,M,70,23.0,74.0,False,True;;;;;;
+SF12 MentalScore,60.27,58.47,poco nuvoloso,M,70,23.0,74.0,False,True;;;;;;
+SF12 PhysicalScore,34.28,57.08,poco nuvoloso,F,66,15.0,72.0,False,True;;;;;;
+SF12 MentalScore,50.17,54.97,poco nuvoloso,F,66,15.0,72.0,False,True;;;;;;
+SF12 PhysicalScore,27.43,29.13,nebbia al mattino,F,73,18.0,75.0,False,True;;;;;;
+SF12 MentalScore,54.14,55.74,nebbia al mattino,F,73,18.0,75.0,False,True;;;;;;
+SF12 PhysicalScore,24.74,46.14,sereno,M,68,20.0,40.0,False,True;;;;;;
+SF12 MentalScore,50.13,58.23,sereno,M,68,20.0,40.0,False,True;;;;;;
+SF12 PhysicalScore,28.74,37.34,sereno,M,78,17.0,63.0,False,True;;;;;;
+SF12 MentalScore,28.39,45.59,sereno,M,78,17.0,63.0,False,True;;;;;;
+SF12 PhysicalScore,32.38,36.38,poco nuvoloso,M,81,26.0,59.0,True,True;;;;;;
+SF12 MentalScore,34.14,62.84,poco nuvoloso,M,81,26.0,59.0,True,True;;;;;;
+SF12 PhysicalScore,33.09,52.09,poco nuvoloso,M,75,18.0,46.0,False,True;;;;;;
+SF12 MentalScore,62.61,60.21,poco nuvoloso,M,75,18.0,46.0,False,True;;;;;;
+SF12 PhysicalScore,28.19,40.19,poco nuvoloso,F,65,20.0,69.0,False,False;;;;;;
+SF12 MentalScore,32.39,29.79,poco nuvoloso,F,65,20.0,69.0,False,False;;;;;;
+SF12 PhysicalScore,30.57,57.07,pioggia e schiarite,F,67,17.0,83.0,False,True;;;;;;
+SF12 MentalScore,33.57,54.47,pioggia e schiarite,F,67,17.0,83.0,False,True;;;;;;
